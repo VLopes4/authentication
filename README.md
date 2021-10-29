@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-    API Rest em Node js e JWT: autenticação com tokens, refresh tokens e confirmação de cadastro, curso oferecido pela <a target="_blank" href="https://cursos.alura.com.br/course/node-jwt-autenticacao-tokens">Alura</a>
+    API Rest em Node js e JWT: autenticação com tokens, refresh tokens e confirmação de cadastro, curso oferecido pela <a target="_blank" href="https://cursos.alura.com.br/course/nodejs-refresh-tokens-confirmacao-cadastro">Alura</a>
 </h2>
 
 <p align="center">
